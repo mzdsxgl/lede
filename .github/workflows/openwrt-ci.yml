@@ -167,21 +167,21 @@ jobs:
           CONFIG_PACKAGE_luci-app-webadmin=y
           CONFIG_PACKAGE_luci-app-wireguard=y
           CONFIG_PACKAGE_luci-app-wrtbwmon=y
-		  CONFIG_PACKAGE_luci-app-advanced-reboot=y
-		  CONFIG_PACKAGE_luci-app-ddns=y
-		  CONFIG_PACKAGE_luci-app-diskman=y
-		  CONFIG_PACKAGE_luci-app-dockerman=y
-		  CONFIG_PACKAGE_luci-app-firewall=y
-		  CONFIG_PACKAGE_luci-app-flowoffload=y
-		  CONFIG_PACKAGE_luci-app-pppoe-relay=y
-		  CONFIG_PACKAGE_luci-app-qos=y
-		  CONFIG_PACKAGE_luci-app-ramfree=y
-		  CONFIG_PACKAGE_luci-app-samba4=y
-		  CONFIG_PACKAGE_luci-app-softethervpn=y
-		  CONFIG_PACKAGE_luci-app-unblockmusic=y
-		  CONFIG_PACKAGE_luci-app-upnp=y
-		  CONFIG_PACKAGE_luci-app-usb-printer=y
-		  CONFIG_PACKAGE_luci-app-zerotier=y
+          CONFIG_PACKAGE_luci-app-advanced-reboot=y
+          CONFIG_PACKAGE_luci-app-ddns=y
+          CONFIG_PACKAGE_luci-app-diskman=y
+          CONFIG_PACKAGE_luci-app-dockerman=y
+          CONFIG_PACKAGE_luci-app-firewall=y
+          CONFIG_PACKAGE_luci-app-flowoffload=y
+          CONFIG_PACKAGE_luci-app-pppoe-relay=y
+          CONFIG_PACKAGE_luci-app-qos=y
+          CONFIG_PACKAGE_luci-app-ramfree=y
+          CONFIG_PACKAGE_luci-app-samba4=y
+          CONFIG_PACKAGE_luci-app-softethervpn=y
+          CONFIG_PACKAGE_luci-app-unblockmusic=y
+          CONFIG_PACKAGE_luci-app-upnp=y
+          CONFIG_PACKAGE_luci-app-usb-printer=y
+          CONFIG_PACKAGE_luci-app-zerotier=y
           EOF
 
           # LuCI主题:
